@@ -1,1 +1,1 @@
-# Portfolio Optomizer
+# Portfolio Optimizer
